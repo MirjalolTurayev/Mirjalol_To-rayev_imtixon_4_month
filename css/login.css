@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body {
+  background-color: rgb(56, 56, 56);
+}
+label {
+  position: relative;
+}
+.show {
+  position: absolute;
+  top: 35px;
+  right: 130px;
+  font-size: 25px;
+}
